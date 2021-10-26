@@ -10,9 +10,12 @@ README
 - [Vulnerability Recurrence](#vulnerability-recurrence)
 	- [oa](#oa)
 		- [landray_oa](#landray_oa)
+	- [Nginx](#nginx)
 - [SRC](#src)
 	- [Src](#src-1)
 	- [Information Colletction](#information-colletction)
+- [Have Fun](#have-fun)
+- [Tools](#tools)
 
 
 
@@ -23,6 +26,7 @@ README
 ### serialize and unserialize
 
 [一篇文章带你深入理解漏洞之 PHP 反序列化漏洞](https://www.k0rz3n.com/2018/11/19/%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0%E5%B8%A6%E4%BD%A0%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3PHP%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E6%BC%8F%E6%B4%9E/)
+
 [Y4 反序列化总结](https://blog.csdn.net/solitudi/article/details/113588692?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522163473919616780262557423%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&request_id=163473919616780262557423&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_v2~rank_v29-1-113588692.pc_v2_rank_blog_default&utm_term=%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96&spm=1018.2226.3001.4450)
 
 
@@ -68,7 +72,8 @@ README
 [蓝凌前台任意文件读取](https://www.cnblogs.com/pandana/p/14779233.html)
 exp:[https://github.com/N0el4kLs/Vulhub_Exp/blob/main/oa/landray_oa/landray_oa_arbitrary_file_reading.py](https://github.com/N0el4kLs/Vulhub_Exp/blob/main/oa/landray_oa/landray_oa_arbitrary_file_reading.py)
 
-
+## Nginx
+[轻松绕过你的Nginx（上篇）](https://mp.weixin.qq.com/s/yDIMgXltVLNfslVGg9lt4g)
 
 
 
@@ -82,8 +87,21 @@ exp:[https://github.com/N0el4kLs/Vulhub_Exp/blob/main/oa/landray_oa/landray_oa_a
 
 [记如何简单的挖掘edusrc](https://xz.aliyun.com/t/10310)
 
+[js 接口泄漏](https://xz.aliyun.com/t/10353)
+
+[一次基本的edu挖掘流程](https://xz.aliyun.com/t/9700)
+
+[从JS接口的泄露到拿下通用型eduGetshell漏洞](https://xz.aliyun.com/t/10353)
+
 
 ## Information Colletction
 
 [常见端口服务及漏洞利用](http://cn-sec.com/archives/360852.html)
 
+
+# Have Fun
+[xss 常见攻击思路](https://xz.aliyun.com/t/8459)
+
+
+# Tools
+[FOFA 客户端](https://github.com/wgpsec/fofa_viewer)
