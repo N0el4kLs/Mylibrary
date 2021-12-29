@@ -44,6 +44,13 @@ README
 
 [php 字符串解析特性](https://www.freebuf.com/articles/web/213359.html)
 
+[phar高级利用姿势](https://guokeya.github.io/post/uxwHLckwx/)
+
+[.user.ini 构造php后门](https://wooyun.js.org/drops/user.ini%E6%96%87%E4%BB%B6%E6%9E%84%E6%88%90%E7%9A%84PHP%E5%90%8E%E9%97%A8.html)
+
+
+
+
 ## Nodejs
 
 [Node.js 常见漏洞学习与总结](https://xz.aliyun.com/t/7184)
@@ -64,6 +71,9 @@ README
 
 [CSP策略及绕过技巧小结](https://www.mi1k7ea.com/2019/02/24/CSP%E7%AD%96%E7%95%A5%E5%8F%8A%E7%BB%95%E8%BF%87%E6%8A%80%E5%B7%A7%E5%B0%8F%E7%BB%93/)
 
+
+
+
 # Vulnerability Recurrence
 
 ## oa
@@ -71,6 +81,9 @@ README
 ### landray_oa
 [蓝凌前台任意文件读取](https://www.cnblogs.com/pandana/p/14779233.html)
 exp:[https://github.com/N0el4kLs/Vulhub_Exp/blob/main/oa/landray_oa/landray_oa_arbitrary_file_reading.py](https://github.com/N0el4kLs/Vulhub_Exp/blob/main/oa/landray_oa/landray_oa_arbitrary_file_reading.py)
+
+
+
 
 ## Nginx
 [轻松绕过你的Nginx（上篇）](https://mp.weixin.qq.com/s/yDIMgXltVLNfslVGg9lt4g)
@@ -82,6 +95,11 @@ exp:[https://github.com/N0el4kLs/Vulhub_Exp/blob/main/oa/landray_oa/landray_oa_a
 
 
 # SRC
+
+一个有条理的 **Checklist**,可以让我们更容易的发现漏洞
+[https://github.com/0xmaximus/Galaxy-Bugbounty-Checklist](https://github.com/0xmaximus/Galaxy-Bugbounty-Checklist)
+
+[https://github.com/OWASP/wstg/tree/master/document/4-Web_Application_Security_Testing](https://github.com/OWASP/wstg/tree/master/document/4-Web_Application_Security_Testing)
 
 ## Src
 
